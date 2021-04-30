@@ -1,0 +1,13 @@
+C:\Users\mikpe\source\repos\CustomInheritance\obj\Debug\netcoreapp3.1\CustomInheritance.AssemblyInfoInputs.cache
+C:\Users\mikpe\source\repos\CustomInheritance\obj\Debug\netcoreapp3.1\CustomInheritance.AssemblyInfo.cs
+C:\Users\mikpe\source\repos\CustomInheritance\obj\Debug\netcoreapp3.1\CustomInheritance.csproj.CoreCompileInputs.cache
+C:\Users\mikpe\source\repos\CustomInheritance\bin\Debug\netcoreapp3.1\CustomInheritance.exe
+C:\Users\mikpe\source\repos\CustomInheritance\bin\Debug\netcoreapp3.1\CustomInheritance.deps.json
+C:\Users\mikpe\source\repos\CustomInheritance\bin\Debug\netcoreapp3.1\CustomInheritance.runtimeconfig.json
+C:\Users\mikpe\source\repos\CustomInheritance\bin\Debug\netcoreapp3.1\CustomInheritance.runtimeconfig.dev.json
+C:\Users\mikpe\source\repos\CustomInheritance\bin\Debug\netcoreapp3.1\CustomInheritance.dll
+C:\Users\mikpe\source\repos\CustomInheritance\bin\Debug\netcoreapp3.1\CustomInheritance.pdb
+C:\Users\mikpe\source\repos\CustomInheritance\obj\Debug\netcoreapp3.1\CustomInheritance.csprojAssemblyReference.cache
+C:\Users\mikpe\source\repos\CustomInheritance\obj\Debug\netcoreapp3.1\CustomInheritance.dll
+C:\Users\mikpe\source\repos\CustomInheritance\obj\Debug\netcoreapp3.1\CustomInheritance.pdb
+C:\Users\mikpe\source\repos\CustomInheritance\obj\Debug\netcoreapp3.1\CustomInheritance.genruntimeconfig.cache
